@@ -1,0 +1,2 @@
+# ArtificalIntelligence
+AI Practicals
